@@ -151,19 +151,4 @@
   <img src="https://img.shields.io/github/followers/Raj-Dwivedi2005?style=social"/>
 </p>
 
----
 
-### Notes
-
-* Portfolio section omitted (add later and I'll update)
-* To use the "snake" image, make sure the `output/github-contribution-grid-snake.svg` file exists in your repo under the same path (GitHub Action / local generation tools produce this file).
-
----
-
-If you'd like, I can also:
-
-* Add a compact **developer bio** section with a one-line elevator pitch
-* Create **custom badges** (stack-specific) for your top projects
-* Generate a **clean printable PDF** version of this README
-
-Tell me which of these you'd like next — I can update the canvas file directly.
