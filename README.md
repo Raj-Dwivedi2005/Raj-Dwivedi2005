@@ -29,6 +29,7 @@
 
 👨‍💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 🤖 AI & ML Enthusiast (Python, TensorFlow, PyTorch, NumPy, Pandas)
+🔐 Aspiring Cyber Security Intern
 🎨 Frontend Animator using GSAP
 🌍 Open Source Contributor
 ✨ Exploring new technologies & building innovative products
