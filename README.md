@@ -116,6 +116,12 @@
 
 ---
 
+<p>
+<img src="https://leetcode.com/medal/?showImg=0&id=7652442&isLevel=false" />
+<img src="https://leetcode.com/medal/?showImg=0&id=7032632&isLevel=false"/>
+<img src="https://leetcode.com/medal/?showImg=0&id=9330485&isLevel=false"/>
+</p>
+
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
